@@ -60,6 +60,8 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Nginx Proxy](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/7) | 
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Flask](https://github.com/CodeChefVIT/OAuth-Pro/issues/4) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Django](https://github.com/CodeChefVIT/OAuth-Pro/issues/3) |
+| [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [Stack Overflow Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/4) |
+| [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [LinkedIn Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/5) |
 
 
 # Contribution Guidelines  🙂

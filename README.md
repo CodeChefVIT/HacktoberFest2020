@@ -42,6 +42,8 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [![Github Issues](https://img.shields.io/github/issues/CodeChefVIT/Secondary-Domain-Tasks-20?color=orange)](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues) | ![GitHub forks](https://img.shields.io/github/forks/CodeChefVIT/Secondary-Domain-Tasks-20?color=yellow) | ![GitHub Stars](https://img.shields.io/github/stars/CodeChefVIT/Secondary-Domain-Tasks-20?color=green)
 | [Engagement Monitor](https://github.com/CodeChefVIT/Engagement-Monitor) | [![GitHub issues](https://img.shields.io/github/issues/CodeChefVIT/Engagement-Monitor?color=orange)](https://github.com/CodeChefVIT/Engagement-Monitor/issues) | ![GitHub forks](https://img.shields.io/github/forks/CodeChefVIT/Engagement-Monitor?color=yellow) | ![GitHub Stars](https://img.shields.io/github/stars/CodeChefVIT/Engagement-Monitor?color=green) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [![GitHub issues](https://img.shields.io/github/issues/CodeChefVIT/OAuth-Pro?color=orange)](https://github.com/CodeChefVIT/OAuth-Pro/issues) | ![GitHub forks](https://img.shields.io/github/forks/CodeChefVIT/OAuth-Pro?color=yellow) | ![GitHub Stars](https://img.shields.io/github/stars/CodeChefVIT/OAuth-Pro?color=green) | 
+| [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Quizzie?color=orange)](https://github.com/CodeChefVIT/Quizzie/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Quizzie?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Quizzie?color=yellow) |
+| [Porfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Portfolio-Template?color=orange)](https://github.com/CodeChefVIT/Portfolio-Template/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Portfolio-Template?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Portfolio-Template?color=yellow) |
 
 
 ## Issues Table  ✨
@@ -62,6 +64,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Django](https://github.com/CodeChefVIT/OAuth-Pro/issues/3) |
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [Stack Overflow Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/4) |
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [LinkedIn Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/5) |
+| [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Msg Handling](https://github.com/CodeChefVIT/Quizzie/issues/105) |
 
 
 # Contribution Guidelines  🙂

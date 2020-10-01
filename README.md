@@ -65,6 +65,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [Stack Overflow Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/4) |
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [LinkedIn Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/5) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Msg Handling](https://github.com/CodeChefVIT/Quizzie/issues/105) |
+| [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Scheduler for quiz](https://github.com/CodeChefVIT/Quizzie/issues/107) |
 
 
 # Contribution Guidelines  🙂

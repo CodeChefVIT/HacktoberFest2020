@@ -4,6 +4,7 @@
 Get ready for Hacktoberfest , check out all our repos and make your pull request here 
 <br> 
 
+<br>
 <img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 
 <h2>
@@ -66,6 +67,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [LinkedIn Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/5) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Msg Handling](https://github.com/CodeChefVIT/Quizzie/issues/105) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Scheduler for quiz](https://github.com/CodeChefVIT/Quizzie/issues/107) |
+| [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Global variable for verifyURL](https://github.com/CodeChefVIT/Quizzie/issues/108) |
 
 
 # Contribution Guidelines  🙂

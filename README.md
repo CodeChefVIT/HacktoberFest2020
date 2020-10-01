@@ -51,7 +51,8 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 
 | Reposiotry | Issue | 
 |---|---|
-| [Resources](https://github.com/CodeChefVIT/resources)  | [Add resources for os,dbms and big data](https://github.com/CodeChefVIT/resources/issues/15)   |
+| [Resources](https://github.com/CodeChefVIT/resources)  | [Add resources for OS & DBMS](https://github.com/CodeChefVIT/resources/issues/15)   |
+| [Git Cheatsheet](https://github.com/CodeChefVIT/git-cheatsheet) | [Add legend for navigation](https://github.com/CodeChefVIT/git-cheatsheet/issues/7) |
 | [Git CheatSheet](https://github.com/CodeChefVIT/git-cheatsheet) | [Add Cli Commands](https://github.com/CodeChefVIT/git-cheatsheet/issues/5) |
 | [Engagement Monitor](https://github.com/CodeChefVIT/Engagement-Monitor) | [Convert to Rest API](https://github.com/CodeChefVIT/Engagement-Monitor/issues/22) |
 | [SMS APP](https://github.com/CodeChefVIT/sms_app) | [Resolve Deprecated Dependencies](https://github.com/CodeChefVIT/sms_app/issues/9) |

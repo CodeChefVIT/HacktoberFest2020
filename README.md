@@ -29,9 +29,9 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 
 ## Table of Contents 💃
 
-* [Repositories](#repositories-with-issues)
-* [Issues Table](#issues-table)
-* [Contribution Guidelines](#contribution-guidelines)
+* [Repositories](#repositories-with-issues-%EF%B8%8F)
+* [Issues Table](#issues-table--)
+* [Contribution Guidelines](#contribution-guidelines--)
 
 
 ## Repositories with issues ⚡️ 

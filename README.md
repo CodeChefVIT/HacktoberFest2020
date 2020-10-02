@@ -70,6 +70,8 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Scheduler for quiz](https://github.com/CodeChefVIT/Quizzie/issues/107) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Global variable for verifyURL](https://github.com/CodeChefVIT/Quizzie/issues/108) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Backend Linting](https://github.com/CodeChefVIT/Quizzie/issues/110) |
+| [Resources](https://github.com/CodeChefVIT/resources) | [Follow repo format for DBMS and Big Data](https://github.com/CodeChefVIT/resources/issues/26) |
+| [Resources](https://github.com/CodeChefVIT/resources) | [DBMS to main README](https://github.com/CodeChefVIT/resources/issues/25) |
 
 
 # Contribution Guidelines  🙂

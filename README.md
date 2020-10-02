@@ -69,6 +69,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Msg Handling](https://github.com/CodeChefVIT/Quizzie/issues/105) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Scheduler for quiz](https://github.com/CodeChefVIT/Quizzie/issues/107) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Global variable for verifyURL](https://github.com/CodeChefVIT/Quizzie/issues/108) |
+| [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Backend Linting](https://github.com/CodeChefVIT/Quizzie/issues/110) |
 
 
 # Contribution Guidelines  🙂

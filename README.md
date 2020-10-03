@@ -46,6 +46,8 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Porfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Portfolio-Template?color=orange)](https://github.com/CodeChefVIT/Portfolio-Template/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Portfolio-Template?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Portfolio-Template?color=yellow) |
 | [Where Is My Sticker](https://github.com/CodeChefVIT/Where-Is-My-Sticker) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Where-Is-My-Sticker?color=orange)](https://github.com/CodeChefVIT/Portfolio-Template/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Where-Is-My-Sticker?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Where-Is-My-Sticker?color=yellow) |
 | [APK Runner](https://github.com/CodeChefVIT/APK-Runner) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/APK-Runner?color=orange)](https://github.com/CodeChefVIT/APK-Runner/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/APK-Runner?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/APK-Runner?color=yellow) |
+| [Summarizer](https://github.com/CodeChefVIT/Summarizer) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Summarizer?color=orange)](https://github.com/CodeChefVIT/Summarizer/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Summarizer?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Summarizer?color=yellow) |
+| [Copyright Injector](https://github.com/CodeChefVIT/Copyright-Injector) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Copyright-Injector?color=orange)](https://github.com/CodeChefVIT/Copyright-Injector/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Copyright-Injector?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Copyright-Injector?color=yellow) |
 
 
 ## Issues Table  ✨
@@ -69,6 +71,8 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Resources](https://github.com/CodeChefVIT/resources) | [Follow repo format for DBMS and Big Data](https://github.com/CodeChefVIT/resources/issues/26) |
 | [Where Is My Sticker](https://github.com/CodeChefVIT/Where-Is-My-Sticker) | [Make Chrome Extension](https://github.com/CodeChefVIT/Where-Is-My-Sticker/issues/1) |
 | [APK Runner](https://github.com/CodeChefVIT/APK-Runner) | [Develop Web App](https://github.com/CodeChefVIT/APK-Runner/issues/1) |
+| [Summarizer](https://github.com/CodeChefVIT/Summarizer) | [Summarize and Show](https://github.com/CodeChefVIT/Summarizer/issues/1) |
+| [Copyright-Injector](https://github.com/CodeChefVIT/Copyright-Injector) | [Make Pre-Commit Hook](https://github.com/CodeChefVIT/Copyright-Injector/issues/1) |
 
 # Contribution Guidelines  🙂
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 

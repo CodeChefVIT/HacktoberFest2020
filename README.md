@@ -1,41 +1,40 @@
 <h1>
- 🌀 Hacktoberfest2020 ⭐️
+ ⭐️ Hacktoberfest 2020 ⭐️
 </h1>
-Get ready for Hacktoberfest , check out all our repos and make your pull request here 
+Get ready for Hacktoberfest! Check out all our repos and make your pull request today!
 <br> 
 
 <br>
 <img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 
 <h2>
- What is Hacktoberfest2020 😎
+ What is Hacktoberfest 2020? 😎
 </h2>
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
 
-During the entire month of October 2020, all you have to do is contribute to any open source projects and open at least 4 pull requests. It can be any project and you can contribute in any way possible. It can be a be a bug fix, improvement,feature addition  or even a documentation change! And win a T-Shirt and awesome stickers.
+During the entire month of October 2020, all you have to do is contribute to any open source project with the hacktoberfest tag and open at least 4 pull requests which follow the [Hacktoberfest guidelines](https://hacktoberfest.digitalocean.com/hacktoberfest-update?updated). It can be any project mentioned below and you can contribute in any way possible. It can be a be a bug fix, optimisation, feature addition or even a documentation enhancement! 
 
 If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
 
 <h1>
-How to get Started 💥 
+How to get Started? 💥 
 </h1>
 
-Click on the link to register yourself  [Registration Here](https://hacktoberfest.digitalocean.com/)
+Click on the link to register yourself [here](https://hacktoberfest.digitalocean.com/).
 
-## Why should you take part 🙌 
--  Chance to contribute to open source projects 
-- Engage in greater communities 
-- Free swags and T Shirts from Digital Ocean
+## Why should you take part? 🙌 
+- Chance to contribute to awesome open source projects 
+- Engage with reputed communities
+- Free swags and T-Shirts from Digital Ocean
+- Chance to get a tree planted and make Earth greener
 
 ## Table of Contents 💃
-
 * [Repositories](#repositories-with-issues-%EF%B8%8F)
 * [Issues Table](#issues-table--)
 * [Contribution Guidelines](#contribution-guidelines--)
 
 
 ## Repositories with issues ⚡️ 
-
 | Repository | Issues | Forks | Stars | 
 |---- | ----- | ----- | ---- | 
 | [Resources](https://github.com/CodeChefVIT/resources) | [![GitHub issues](https://img.shields.io/github/issues/CodeChefVIT/resources?color=orange)](https://github.com/CodeChefVIT/resources/issues) | 	![GitHub forks](https://img.shields.io/github/forks/CodeChefVIT/resources?color=yellow) | ![GitHub Stars](https://img.shields.io/github/stars/CodeChefVIT/resources?color=green)|
@@ -48,12 +47,9 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 
 
 ## Issues Table  ✨
-
 | Reposiotry | Issue | 
 |---|---|
-| [Resources](https://github.com/CodeChefVIT/resources)  | [Add resources for OS & DBMS](https://github.com/CodeChefVIT/resources/issues/15)   |
 | [Git Cheatsheet](https://github.com/CodeChefVIT/git-cheatsheet) | [Add legend for navigation](https://github.com/CodeChefVIT/git-cheatsheet/issues/7) |
-| [Git CheatSheet](https://github.com/CodeChefVIT/git-cheatsheet) | [Add Cli Commands](https://github.com/CodeChefVIT/git-cheatsheet/issues/5) |
 | [Engagement Monitor](https://github.com/CodeChefVIT/Engagement-Monitor) | [Convert to Rest API](https://github.com/CodeChefVIT/Engagement-Monitor/issues/22) |
 | [SMS APP](https://github.com/CodeChefVIT/sms_app) | [Resolve Deprecated Dependencies](https://github.com/CodeChefVIT/sms_app/issues/9) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Golang](https://github.com/CodeChefVIT/OAuth-Pro/issues/6) |
@@ -66,37 +62,31 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Django](https://github.com/CodeChefVIT/OAuth-Pro/issues/3) |
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [Stack Overflow Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/4) |
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [LinkedIn Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/5) |
-| [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Msg Handling](https://github.com/CodeChefVIT/Quizzie/issues/105) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Scheduler for quiz](https://github.com/CodeChefVIT/Quizzie/issues/107) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Global variable for verifyURL](https://github.com/CodeChefVIT/Quizzie/issues/108) |
-| [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Backend Linting](https://github.com/CodeChefVIT/Quizzie/issues/110) |
 | [Resources](https://github.com/CodeChefVIT/resources) | [Follow repo format for DBMS and Big Data](https://github.com/CodeChefVIT/resources/issues/26) |
-| [Resources](https://github.com/CodeChefVIT/resources) | [DBMS to main README](https://github.com/CodeChefVIT/resources/issues/25) |
 
 
 # Contribution Guidelines  🙂
-
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+- When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 
+- Don't forget to get yourself assigned before starting to work to avoid any clashes & confusion.
 
 
 ## Pull Request Process
-
 * Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-* Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
-* Only send your pull requests to the development branch where once we reach a stable point it will be merged with the master branch .
+* Update the README.md with details of changes to the interface- this includes new environment variables, exposed ports, useful file locations and container parameters.
+* Only send your pull requests to the development branch where once we reach a stable point it will be merged with the master branch.
 * Associate each Pull Request with the required issue number.
-* Please provide relevant steps to use your codebase adding few extra lines of comments or commands to run would be helpful for others to follow along .
+* Please provide relevant steps to use your codebase adding few extra lines of comments or commands to run would be helpful for others to follow along.
 
 ## Branch Policy
-- development: If you are making a contribution make sure to send your Pull Request to this branch . All developments goes in this branch.
-
-- master: After significant features/bug-fixes are accumulated in development branch we merge it with the master branch.
+- development: If you are making a contribution make sure to send your Pull Request to this branch. All developments goes in this branch.
+- master: After significant features/bug-fixes are accumulated in development branch we will merge it with the master branch.
 
 ## Contribution Practices
-
-- Please be respectful of others , do not indulge in unacceptable behaviour 
+- Please be respectful of others, do not indulge in unacceptable behaviour 
 - If a person is working or has been assigned an issue and you want to work on it please ask him/her if he is working on it
-- We are happy to allow you to work on your issues , but in case of long period of inactivity  the issue will be approved to another volunteer
+- We are happy to allow you to work on your issues, but in case of long period of inactivity the issue will be approved to another volunteer
 - If you report a bug please provide steps to reproduce the bug.
 - In case of changing the backend routes please submit an updated routes documentation for the same.
 - If there is an UI related change it would be great if you could attach a screenshot with the resultant changes so it is easier to review for the maintainers
@@ -105,7 +95,7 @@ When contributing to this repository, please first discuss the change you wish t
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-If you like our Projects please leave a 🌟
+If you like our Projects, please leave a 🌟
 
 <p align="center">
 	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>

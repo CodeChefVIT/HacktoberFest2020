@@ -72,7 +72,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Where Is My Sticker](https://github.com/CodeChefVIT/Where-Is-My-Sticker) | [Make Chrome Extension](https://github.com/CodeChefVIT/Where-Is-My-Sticker/issues/1) |
 | [APK Runner](https://github.com/CodeChefVIT/APK-Runner) | [Develop Web App](https://github.com/CodeChefVIT/APK-Runner/issues/1) |
 | [Summarizer](https://github.com/CodeChefVIT/Summarizer) | [Summarize and Show](https://github.com/CodeChefVIT/Summarizer/issues/1) |
-| [Copyright-Injector](https://github.com/CodeChefVIT/Copyright-Injector) | [Make Pre-Commit Hook](https://github.com/CodeChefVIT/Copyright-Injector/issues/1) |
+| [Copyright Injector](https://github.com/CodeChefVIT/Copyright-Injector) | [Make Pre-Commit Hook](https://github.com/CodeChefVIT/Copyright-Injector/issues/1) |
 
 # Contribution Guidelines  🙂
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 

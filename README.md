@@ -44,6 +44,8 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [![GitHub issues](https://img.shields.io/github/issues/CodeChefVIT/OAuth-Pro?color=orange)](https://github.com/CodeChefVIT/OAuth-Pro/issues) | ![GitHub forks](https://img.shields.io/github/forks/CodeChefVIT/OAuth-Pro?color=yellow) | ![GitHub Stars](https://img.shields.io/github/stars/CodeChefVIT/OAuth-Pro?color=green) | 
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Quizzie?color=orange)](https://github.com/CodeChefVIT/Quizzie/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Quizzie?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Quizzie?color=yellow) |
 | [Porfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Portfolio-Template?color=orange)](https://github.com/CodeChefVIT/Portfolio-Template/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Portfolio-Template?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Portfolio-Template?color=yellow) |
+| [Where Is My Sticker](https://github.com/CodeChefVIT/Where-Is-My-Sticker) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/Where-Is-My-Sticker?color=orange)](https://github.com/CodeChefVIT/Portfolio-Template/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/Where-Is-My-Sticker?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/Where-Is-My-Sticker?color=yellow) |
+| [APK Runner](https://github.com/CodeChefVIT/APK-Runner) | [![Github issues](https://img.shields.io/github/issues/CodeChefVIT/APK-Runner?color=orange)](https://github.com/CodeChefVIT/APK-Runner/issues) | ![Github forks](https://img.shields.io/github/forks/CodeChefVIT/APK-Runner?color=yellow) | ![Github Stars](https://img.shields.io/github/stars/CodeChefVIT/APK-Runner?color=yellow) |
 
 
 ## Issues Table  ✨
@@ -65,7 +67,8 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Scheduler for quiz](https://github.com/CodeChefVIT/Quizzie/issues/107) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Global variable for verifyURL](https://github.com/CodeChefVIT/Quizzie/issues/108) |
 | [Resources](https://github.com/CodeChefVIT/resources) | [Follow repo format for DBMS and Big Data](https://github.com/CodeChefVIT/resources/issues/26) |
-
+| [Where Is My Sticker](https://github.com/CodeChefVIT/Where-Is-My-Sticker) | [Make Chrome Extension](https://github.com/CodeChefVIT/Where-Is-My-Sticker/issues/1) |
+| [APK Runner](https://github.com/CodeChefVIT/APK-Runner) | [Develop Web App](https://github.com/CodeChefVIT/APK-Runner/issues/1) |
 
 # Contribution Guidelines  🙂
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 

@@ -68,7 +68,6 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Portfolio Template](https://github.com/CodeChefVIT/Portfolio-Template) | [LinkedIn Theme](https://github.com/CodeChefVIT/Portfolio-Template/issues/5) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Scheduler for quiz](https://github.com/CodeChefVIT/Quizzie/issues/107) |
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Global variable for verifyURL](https://github.com/CodeChefVIT/Quizzie/issues/108) |
-| [Resources](https://github.com/CodeChefVIT/resources) | [Follow repo format for DBMS and Big Data](https://github.com/CodeChefVIT/resources/issues/26) |
 | [Where Is My Sticker](https://github.com/CodeChefVIT/Where-Is-My-Sticker) | [Make Chrome Extension](https://github.com/CodeChefVIT/Where-Is-My-Sticker/issues/1) |
 | [APK Runner](https://github.com/CodeChefVIT/APK-Runner) | [Develop Web App](https://github.com/CodeChefVIT/APK-Runner/issues/1) |
 | [Summarizer](https://github.com/CodeChefVIT/Summarizer) | [Summarize and Show](https://github.com/CodeChefVIT/Summarizer/issues/1) |

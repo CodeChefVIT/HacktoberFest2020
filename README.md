@@ -74,6 +74,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Copyright Injector](https://github.com/CodeChefVIT/Copyright-Injector) | [Make Pre-Commit Hook](https://github.com/CodeChefVIT/Copyright-Injector/issues/1) |
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Hadoop Role](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/12) | 
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Modified RSA](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/11) | 
+| [Resources](https://github.com/CodeChefVIT/resources) | [Shell Scripting](https://github.com/CodeChefVIT/resources/issues/43) | 
 
 # Contribution Guidelines  🙂
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 

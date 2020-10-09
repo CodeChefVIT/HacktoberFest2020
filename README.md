@@ -70,7 +70,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Quizzie](https://github.com/CodeChefVIT/Quizzie) | [Global variable for verifyURL](https://github.com/CodeChefVIT/Quizzie/issues/108) |
 | [Where Is My Sticker](https://github.com/CodeChefVIT/Where-Is-My-Sticker) | [Make Chrome Extension](https://github.com/CodeChefVIT/Where-Is-My-Sticker/issues/1) |
 | [APK Runner](https://github.com/CodeChefVIT/APK-Runner) | [Develop Web App](https://github.com/CodeChefVIT/APK-Runner/issues/1) |
-| [Summarizer](https://github.com/CodeChefVIT/Summarizer) | [Summarize and Show](https://github.com/CodeChefVIT/Summarizer/issues/1) |
+| [Summarizer](https://github.com/CodeChefVIT/Summarizer) | [Build Frontend](https://github.com/CodeChefVIT/Summarizer/issues/3) |
 | [Copyright Injector](https://github.com/CodeChefVIT/Copyright-Injector) | [Make Pre-Commit Hook](https://github.com/CodeChefVIT/Copyright-Injector/issues/1) |
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Hadoop Role](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/12) | 
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Modified RSA](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/11) | 

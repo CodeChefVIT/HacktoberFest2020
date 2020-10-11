@@ -75,6 +75,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Hadoop Role](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/12) | 
 | [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Modified RSA](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/11) | 
 | [Resources](https://github.com/CodeChefVIT/resources) | [Shell Scripting](https://github.com/CodeChefVIT/resources/issues/43) | 
+| [Git Cheatsheet](https://github.com/CodeChefVIT/git-cheatsheet) | [Master -> Main](https://github.com/CodeChefVIT/git-cheatsheet/issues/12) |
 
 # Contribution Guidelines  🙂
 - When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 

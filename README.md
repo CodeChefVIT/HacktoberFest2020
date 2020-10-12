@@ -51,7 +51,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 
 
 ## Issues Table  ✨
-| Reposiotry | Issue | 
+| Repository | Issue | 
 |---|---|
 | [Git Cheatsheet](https://github.com/CodeChefVIT/git-cheatsheet) | [Add legend for navigation](https://github.com/CodeChefVIT/git-cheatsheet/issues/7) |
 | [Engagement Monitor](https://github.com/CodeChefVIT/Engagement-Monitor) | [Convert to Rest API](https://github.com/CodeChefVIT/Engagement-Monitor/issues/22) |

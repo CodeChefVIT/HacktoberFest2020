@@ -22,6 +22,9 @@ How to get Started? 💥
 
 Click on the link to register yourself [here](https://hacktoberfest.digitalocean.com/).
 
+## Know more about open source
+- Check out this live stream that we conducted under Hacktoberfest and MLH [here](https://bit.ly/CC-HacktoberFest2020)
+
 ## Why should you take part? 🙌 
 - Chance to contribute to awesome open source projects 
 - Engage with reputed communities

@@ -56,7 +56,6 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 ## Issues Table  ✨
 | Repository | Issue | 
 |---|---|
-| [Git Cheatsheet](https://github.com/CodeChefVIT/git-cheatsheet) | [Add legend for navigation](https://github.com/CodeChefVIT/git-cheatsheet/issues/7) |
 | [Engagement Monitor](https://github.com/CodeChefVIT/Engagement-Monitor) | [Convert to Rest API](https://github.com/CodeChefVIT/Engagement-Monitor/issues/22) |
 | [SMS APP](https://github.com/CodeChefVIT/sms_app) | [Resolve Deprecated Dependencies](https://github.com/CodeChefVIT/sms_app/issues/9) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Golang](https://github.com/CodeChefVIT/OAuth-Pro/issues/6) |
